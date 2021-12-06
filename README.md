@@ -1,7 +1,7 @@
 ![](https://aniyuki.com/wp-content/uploads/2021/07/aniyuki-tokyo-revengers-gif-33.gif)
 
 
-### Hi there i'm zozinhoo 👋
+### Hi there i'm gold digger catcher👋
 - 🔭 I’m currently working on ubersation of gold digger
 - 🌱 I’m currently learning at 42 Lausanne
 - ⚡ Fun fact: Catch the gold digger for me please!
