@@ -1,7 +1,7 @@
 ### Hi there i'm zozinhoo 👋
 - 🔭 I’m currently working on ubersation of gold digger
-- - 🌱 I’m currently learning at 42 Lausanne
-- - ⚡ Fun fact: Catch the gold digger
+- 🌱 I’m currently learning at 42 Lausanne
+- ⚡ Fun fact: Catch the gold digger
 
 CURSUS 42
 
