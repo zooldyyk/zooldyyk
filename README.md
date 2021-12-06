@@ -1,5 +1,7 @@
 ### Hi there i'm zozinhoo 👋
-
+- 🔭 I’m currently working on ubersation of gold digger
+- - 🌱 I’m currently learning at 42 Lausanne
+- - ⚡ Fun fact: Catch the gold digger
 
 CURSUS 42
 
@@ -7,15 +9,15 @@ CURSUS 42
 
 FINISHED PROJECTS
 
-https://github.com/zooldyyk/Libft.a
+[Libft](https://github.com/zooldyyk/Libft.a)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/Libft)](https://github.com/JaeSeoKim/badge42)
 
-https://github.com/zooldyyk/ft_printf
+[ft_printf](https://github.com/zooldyyk/ft_printf)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/ft_printf)](https://github.com/JaeSeoKim/badge42)
 
 NOT FINISHED PROJECT
 
-https://github.com/zooldyyk/get_next_line
+[get_next_line](https://github.com/zooldyyk/get_next_line)
 
 
 PISCINE JUILLET
