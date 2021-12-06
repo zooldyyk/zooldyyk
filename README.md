@@ -1,5 +1,26 @@
-### Hi there 👋
+### Hi there i'm zozinhoo 👋
 
+
+CURSUS 42
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/eschmid?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+FINISHED PROJECTS
+
+https://github.com/zooldyyk/Libft.a
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/Libft)](https://github.com/JaeSeoKim/badge42)
+
+https://github.com/zooldyyk/ft_printf
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/ft_printf)](https://github.com/JaeSeoKim/badge42)
+
+NOT FINISHED PROJECT
+
+https://github.com/zooldyyk/get_next_line
+
+
+PISCINE JUILLET
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/eschmid?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 <!--
 **zooldyyk/zooldyyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
