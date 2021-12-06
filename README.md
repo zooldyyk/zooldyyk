@@ -1,7 +1,11 @@
+![](https://aniyuki.com/wp-content/uploads/2021/07/aniyuki-tokyo-revengers-gif-33.gif)
+
+
 ### Hi there i'm zozinhoo 👋
 - 🔭 I’m currently working on ubersation of gold digger
 - 🌱 I’m currently learning at 42 Lausanne
-- ⚡ Fun fact: Catch the gold digger
+- ⚡ Fun fact: Catch the gold digger for me please!
+
 
 CURSUS 42
 
@@ -19,10 +23,6 @@ WORKING PROJECT
 
 [get_next_line](https://github.com/zooldyyk/get_next_line)
 
-
-PISCINE JUILLET
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/eschmid?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 <!--
 **zooldyyk/zooldyyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
