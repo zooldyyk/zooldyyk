@@ -1,12 +1,6 @@
 ![](https://aniyuki.com/wp-content/uploads/2021/07/aniyuki-tokyo-revengers-gif-33.gif)
 
 
-### Hi there i'm gold digger catcher👋
-- 🔭 I’m currently working on ubersation of gold digger
-- 🌱 I’m currently learning at 42 Lausanne
-- ⚡ Fun fact: Catch the gold digger for me please!
-
-
 CURSUS 42
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/eschmid?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
