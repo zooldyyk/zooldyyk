@@ -7,7 +7,8 @@
     </h4>
 </h1>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/eschmid?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/eschmid?privacyEmail=true)]
+(https://github.com/JaeSeoKim/badge42)
 
 <h1 align="left">
   Finished Projects
