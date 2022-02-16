@@ -12,6 +12,7 @@ FINISHED PROJECTS
 
 [ft_printf](https://github.com/zooldyyk/ft_printf)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/ft_printf)](https://github.com/JaeSeoKim/badge42)
+
 [get_next_line](https://github.com/zooldyyk/get_next_line)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/get_next_line)](https://github.com/JaeSeoKim/badge42)
 
