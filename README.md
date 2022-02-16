@@ -6,8 +6,9 @@
     <h4 align="center" style="width: 59%; margin: 2rem auto; font-weight: normal;"> 
     </h4>
 </h1>
-
+<h1 align="center">
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/eschmid?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+ </h1>
 <h1 align="center">
   Finished Projects
 </h1>
