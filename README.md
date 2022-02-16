@@ -1,11 +1,16 @@
 ![](https://aniyuki.com/wp-content/uploads/2021/07/aniyuki-tokyo-revengers-gif-33.gif)
 
 
-CURSUS 42
+<h1 align="center">
+    Cursus School 42 Lausanne
+    <h4 align="center" style="width: 59%; margin: 2rem auto; font-weight: normal;"> 
+    </h4>
+</h1>
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/eschmid?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
-FINISHED PROJECTS
+<h1 align="center">
+  Finished Projects
+</h1>
 
 [Libft](https://github.com/zooldyyk/Libft.a)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/Libft)](https://github.com/JaeSeoKim/badge42)
