@@ -1,5 +1,3 @@
-![](https://aniyuki.com/wp-content/uploads/2021/07/aniyuki-tokyo-revengers-gif-33.gif)
-
 
 <h1 align="left">
     Cursus School 42 Lausanne
