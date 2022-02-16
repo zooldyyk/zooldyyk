@@ -8,20 +8,19 @@
 </h1>
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/eschmid?privacyEmail=true)]
-(https://github.com/JaeSeoKim/badge42)
 
 <h1 align="left">
   Finished Projects
 </h1>
 
 [Libft](https://github.com/zooldyyk/Libft.a)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/Libft)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/Libft)]
 
 [ft_printf](https://github.com/zooldyyk/ft_printf)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/ft_printf)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/ft_printf)]
 
 [get_next_line](https://github.com/zooldyyk/get_next_line)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/get_next_line)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/eschmid/get_next_line)]
 
 
 <!--
