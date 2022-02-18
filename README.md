@@ -1,5 +1,5 @@
 
-<h1 align="right">
+<h1 align="left">
     Cursus School 42 Lausanne
     <h4 align="center" style="width: 59%; margin: 2rem auto; font-weight: normal;"> 
     </h4>
