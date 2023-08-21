@@ -2,7 +2,7 @@
 
 
 
-<p align="center">- 🔭 I’m currently working at Jobtrek
+<p align="center">🔭 I’m currently working at Jobtrek
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
