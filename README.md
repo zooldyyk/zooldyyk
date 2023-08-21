@@ -2,7 +2,7 @@
 - 🔭 I’m currently working at Jobtrek
 
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
