@@ -1,4 +1,3 @@
-<div align="center>
 <h1 align="center">Hi 👋, I'm Elliot</h1>
 <p align="center">🔭 I’m currently working at Jobtrek
 </p>
