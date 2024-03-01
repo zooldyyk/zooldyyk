@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elliot</h1>
-<p align="center">🔭 I’m currently working at Jobtrek</p>
+<p align="center">🔭 I’m currently working at Antistatique</p>
 <h3 align="center"> 💻 Working and Studying on </h3>
 <p align="center">  
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
